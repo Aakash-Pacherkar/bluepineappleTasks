@@ -30,3 +30,5 @@ for x in range(2, n+1):
     
 #finally display the list containing all perfect numbers 
 print("Perfect numbers between 1 and ", n , "are :", perfectNums)
+
+# Regards - Aakash Pacherkar :)

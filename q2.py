@@ -26,3 +26,5 @@ for x in range(10):
     #to avoid printing msg for numbers which have occured zero times apply a condition
     if res > 0:
         print(x," occured ",res,"times in ",n)
+
+# Regards - Aakash Pacherkar :)
